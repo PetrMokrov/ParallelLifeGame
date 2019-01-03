@@ -1,0 +1,3 @@
+/home/petiapc/MIPT/ParDistrib/LifeGameRepository/ParallelLifeGame/code_MPI/build/CMakeFiles/rebuild_cache.dir
+/home/petiapc/MIPT/ParDistrib/LifeGameRepository/ParallelLifeGame/code_MPI/build/CMakeFiles/MpiLifeGame.dir
+/home/petiapc/MIPT/ParDistrib/LifeGameRepository/ParallelLifeGame/code_MPI/build/CMakeFiles/edit_cache.dir
